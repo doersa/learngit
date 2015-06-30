@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://127.0.0.1/apps/GalaxyWorld_inhouse_troondon_20150626.ipa</string>
+					<string>http://192.168.0.111/apps/GalaxyWorld_inhouse_troondon_20150626.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
 					<key>url</key>
-					<string>https://127.0.0.1/apps/guanjia_logo.ico</string>
+					<string>http://192.168.0.111/apps/guanjia_logo.ico</string>
 				</dict>
 			</array>
 			<key>metadata</key>
