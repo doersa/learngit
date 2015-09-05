@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
 					<key>url</key>
-					<string>http://192.168.0.66/apps/guanjia_logo.ico</string>
+					<string>http://192.168.0.66/apps/logo.ico</string>
 				</dict>
 			</array>
 			<key>metadata</key>
